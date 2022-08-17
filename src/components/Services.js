@@ -5,12 +5,11 @@ const posts = [
     title: "Web Development",
     site: "/webDev",
     href: "#",
-    category: { name: "Article", href: "#" },
+    category: { name: "Technology", href: "#" },
     description: "We build the fastest websites ever! Using React, TailwindCss, and Next.js to move you forward.",
     date: "Mar 16, 2020",
     datetime: "2020-03-16",
-    imageUrl:
-      "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
     readingTime: "6 min",
     author: {
       name: "Roel Aufderehar",
@@ -23,11 +22,12 @@ const posts = [
     title: "Desktop Application Developer",
     site: "/appDev",
     href: "#",
-    category: { name: "Video", href: "#" },
+    category: { name: "Technology", href: "#" },
     description: "We can help your business by creating React Dashboards for offline or online use. ",
     date: "Mar 10, 2020",
     datetime: "2020-03-10",
-    imageUrl: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    imageUrl:
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     readingTime: "4 min",
     author: {
       name: "Brenna Goyette",
@@ -37,15 +37,15 @@ const posts = [
     },
   },
   {
-    title: "Guitar Teacher",
+    title: "Guitar Lessons",
     site: "/guitar",
     href: "#",
-    category: { name: "Case Study", href: "#" },
+    category: { name: "Audio/Video", href: "#" },
     description: "We give Guitar lessons right in your living room! With years of experience we can teach kids to full grown adults any genre.",
     date: "Feb 12, 2020",
     datetime: "2020-02-12",
     imageUrl:
-      "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+      "https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     readingTime: "11 min",
     author: {
       name: "Daniela Metz",
@@ -58,12 +58,12 @@ const posts = [
     title: "Audio Specialist",
     site: "/audio",
     href: "#",
-    category: { name: "Case Study", href: "#" },
+    category: { name: "Audio/Video", href: "#" },
     description: "Want to record? Want to setup your home stereo system. We'll show you what you need to how to set it up.",
     date: "Feb 12, 2020",
     datetime: "2020-02-12",
     imageUrl:
-      "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+      "https://images.unsplash.com/photo-1636226570637-3fbda7ca09dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
     readingTime: "11 min",
     author: {
       name: "Daniela Metz",
@@ -76,12 +76,12 @@ const posts = [
     title: "Pain Physcian",
     site: "/webDev",
     href: "#",
-    category: { name: "Case Study", href: "#" },
+    category: { name: "Therapy", href: "#" },
     description: "We'll help you right in your home how to release tight muscles, fascia, and create more stability in your body.",
     date: "Feb 12, 2020",
     datetime: "2020-02-12",
     imageUrl:
-      "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+      "https://images.unsplash.com/photo-1616803689943-5601631c7fec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     readingTime: "11 min",
     author: {
       name: "Daniela Metz",
@@ -94,12 +94,12 @@ const posts = [
     title: "Hypnotherapy",
     site: "/webDev",
     href: "#",
-    category: { name: "Case Study", href: "#" },
+    category: { name: "Therapy", href: "#" },
     description: "Our Professional trained hypnotist can come to you, all that is needed is a comfy couch.",
     date: "Feb 12, 2020",
     datetime: "2020-02-12",
     imageUrl:
-      "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+      "https://images.unsplash.com/photo-1470376619031-a6791e534bf0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     readingTime: "11 min",
     author: {
       name: "Daniela Metz",
@@ -109,15 +109,15 @@ const posts = [
     },
   },
   {
-    title: "Minamalist Coach",
+    title: "Minimalist Coach",
     site: "/webDev",
     href: "#",
-    category: { name: "Case Study", href: "#" },
+    category: { name: "Therapy", href: "#" },
     description: "We help you make your home or business more efficient, less cluttered and give you the tools to keep it that way forever.",
     date: "Feb 12, 2020",
     datetime: "2020-02-12",
     imageUrl:
-      "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     readingTime: "11 min",
     author: {
       name: "Daniela Metz",
